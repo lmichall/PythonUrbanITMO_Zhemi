@@ -1,7 +1,7 @@
 # Лабораторная работа 1
 
 ## Задания для лабораторной
-1. Далее сделать копию [jupyter notebook](https://colab.research.google.com/drive/1vwpYasYGifiscGdDp6rpa4sfUHv6Tdu7?usp=sharing) к себе в гугл диск.
+1. Далее сделать копию [jupyter notebook] к себе в гугл диск.
   ![image](https://user-images.githubusercontent.com/14962819/178701259-c427b7ea-b145-42a8-84ef-1b5829621d6a.png)
 1. Установить права доступа (Share) к jupyter notebook с возможностью редактирования (Editor)
   ![image](https://user-images.githubusercontent.com/14962819/202727230-ef2b916c-121b-417a-9db9-9afa190c5448.png)
